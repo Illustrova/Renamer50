@@ -67,8 +67,6 @@ Each block (with some obvious exceptions) can take 2 additional parameters:
 
 * __Change case:__ _lowercase, uppercase, reversed_. The text case will be changed accordingly. Numbers and symbols won't be affected.
 * __Include separators:__ add any separators to split the block. Each block can have it's individual separator, and it can include any sequence of characters or even text.  
-   _Example:_ __Nr:Folder__  
-  `C:/photos/IMG0225.jpg -> C:/photos/182.jpg`
 
 ## Built with
 
